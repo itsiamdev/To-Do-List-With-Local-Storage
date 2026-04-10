@@ -10,7 +10,7 @@ A simple and efficient to-do list application that allows you to add, manage, an
 - 📱 Responsive design
 
 ## Live Demo
-Check out the live demo here: [https://iam269.github.io/To-Do-List-With-Local-Storage/](https://iam269.github.io/To-Do-List-With-Local-Storage/)
+Check out the live demo here: [https://itsiamdev.github.io/To-Do-List-With-Local-Storage/](https://itsiamdev.github.io/To-Do-List-With-Local-Storage/)
 
 ## Technologies Used
 - HTML5
